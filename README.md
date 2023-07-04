@@ -4,7 +4,7 @@
 **pauortegarcia/pauortegarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://pauortegarcia.es" target="_blank">Pau Ortega</a> 👋</h1>
+<h1 align="center">Hola, soy <a target="_blank" href="https://pauortegarcia.es">Pau Ortega</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/vsZrktH.png">
 
