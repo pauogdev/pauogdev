@@ -19,7 +19,7 @@
 - 🎥 I create [Web3](https://instagram.com/pauortegarcia) content
 - ✏️ Modern languages [Blog](https://pauortegarcia.es/blog)
 - 🧑‍🏫 [Freelance](https://pauortegarcia.es) Developer
-- 📹 Soon content creator in [kick.com](kick.com/es-dpiwi)
+- 📹 Soon content creator in [kick.com](https://kick.com/es-dpiwi)
 <br>
 
 ## 📋 Hard Skills
