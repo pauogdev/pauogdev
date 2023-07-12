@@ -12,7 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/pauortegarcia?style=social)](https://github.com/pauortegarcia)
 
 
-## 🤵Sobre mi
+## 🤵About Me
 
 - ⭐ Full-Stack Developer ⭐ 
 - 📲 Mobile developer
