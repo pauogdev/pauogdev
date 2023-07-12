@@ -4,7 +4,7 @@
 **pauortegarcia/pauortegarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-<h1 align="center">Hola, soy <a target="_blank" href="https://pauortegarcia.es">Pau Ortega</a> 👋</h1>
+<h1 align="center">Welcome, i'm <a target="_blank" href="https://pauortegarcia.es">Pau Ortega</a> 🧑‍💻</h1>
 </div>
 <img src="https://i.imgur.com/vsZrktH.png">
 
@@ -12,16 +12,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/pauortegarcia?style=social)](https://github.com/pauortegarcia)
 
 
-## Sobre mi
+## 🤵Sobre mi
 
 - ⭐ Full-Stack Developer ⭐ 
 - 📲 Mobile developer
 - 🎥 I create [Web3](https://instagram.com/pauortegarcia) content
 - ✏️ Modern languages [Blog](https://pauortegarcia.es/blog)
 - 🧑‍🏫 [Freelance](https://pauortegarcia.es) Developer
+- 📹 Soon content creator in [kick.com](kick.com/es-dpiwi)
 <br>
 
-## Projects coming soon
+## 📋 Hard Skills
+
+<br>
+
+## 🚀 Projects coming soon
                                                                             
 </div>
 <br>
