@@ -25,19 +25,19 @@
 ## 📋 Hard Skills
 <ul style="list-style-type: none;">
   <li col="3">
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Java&labelColor=%23333333&color=%23ff0000" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=NodeJS&labelColor=%23333333&color=%23ff0000" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Kotlin&labelColor=%23333333&color=%23ff0000" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Java&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=NodeJS&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Kotlin&labelColor=%230792CA&color=%239474FA" />
   </li>
   <li col="3" >
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=JavaScript&labelColor=%23333333&color=%23ff0000" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=PHP&labelColor=%23333333&color=%23ff0000" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=SQL&labelColor=%23333333&color=%23ff0000" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=JavaScript&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=PHP&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=SQL&labelColor=%230792CA3&color=%239474FA" />
   </li>
   <li col="3">
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=CSS3&labelColor=%23333333&color=%23ff0000" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%20%20%E2%AD%90%E2%AD%90-text?label=React&labelColor=%23333333&color=%23ff0000" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%20%20%E2%AD%90%E2%AD%90-text?label=Astro&labelColor=%23333333&color=%23ff0000" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=CSS3&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%20%20%E2%AD%90%E2%AD%90-text?label=React&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%20%20%E2%AD%90%E2%AD%90-text?label=Astro&labelColor=%230792CA&color=%239474FA" />
   </li>
 </ul>
 
