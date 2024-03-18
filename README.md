@@ -32,7 +32,7 @@
   <li col="3" >
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=JavaScript&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=PHP&labelColor=%230792CA&color=%239474FA" />
-    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=SQL&labelColor=%230792CA3&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=SQL&labelColor=%230792CA&color=%239474FA" />
   </li>
   <li col="3">
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=CSS3&labelColor=%230792CA&color=%239474FA" />
