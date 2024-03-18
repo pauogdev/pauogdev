@@ -14,13 +14,13 @@
 
 ## 🤵About Me
 
-- ⭐ [Full-Stack] Developer ⭐ 
-- 📲 [Mobile] developer
-- 💎 [Blockchains] Developer
-- 🎥 I create [Web3](https://instagram.com/pauortegarcia) content
-- ✏️ Modern languages [Blog](https://bytedev.blog)
-- 🧑‍🏫 [Freelance](https://pauortegarcia.es) Developer
-- 📹 Soon content creator in [twitch.tv](https://twitch.tv/pauogdev)
+- ⭐ **Full-Stack** Developer ⭐ 
+- 📲 **Mobile** developer
+- 💎 **Blockchains** Developer
+- 🎥 I create **[Web3](https://instagram.com/pauortegarcia)** content
+- ✏️ Modern languages **[Blog](https://bytedev.blog)**
+- 🧑‍🏫 **[Freelance](https://pauortegarcia.es)** Developer
+- 📹 Soon content creator in **[twitch.tv](https://twitch.tv/pauogdev)**
 <br>
 
 ## 📋 Hard Skills
