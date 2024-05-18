@@ -19,7 +19,7 @@
 - 💎 **Blockchains** Developer
 - 🎥 I create **[Web3](https://instagram.com/pauortegarcia)** content
 - ✏️ Modern languages **[Blog](https://bytedev.blog)**
-- 🧑‍🏫 **[Freelance](https://pauortegarcia.es)** Developer
+- 🧑‍🏫 **[Freelance](https://pauogdev.vercel.app)** Developer
 - 📹 Soon content creator in **[twitch.tv](https://twitch.tv/pauogdev)**
 <br>
 
