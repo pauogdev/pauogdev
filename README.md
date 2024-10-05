@@ -6,7 +6,7 @@
 <div align="center">
 <h1 align="center">Welcome, i'm <a target="_blank" href="https://pauortegarcia.es">Pau Ortega</a> 🧑‍💻</h1>
 </div>
-<img src="(https://imgur.com/vsZrktH)">
+<img src="https://imgur.com/vsZrktH" />
 
 
 [![GitHub followers](https://img.shields.io/github/followers/pauortegarcia?style=social)](https://github.com/pauortegarcia)
