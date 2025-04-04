@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/Zd4Z9Lx.jpeg" />
 
 
-[![GitHub followers](https://img.shields.io/github/followers/pauortegarcia?style=social)](https://github.com/pauortegarcia)
+[![GitHub followers](https://img.shields.io/github/followers/pauogdev?style=social)](https://github.com/pauortegarcia)
 
 
 ## 🤵About Me
