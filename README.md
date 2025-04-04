@@ -17,7 +17,7 @@
 - ⭐ **Full-Stack** Developer ⭐ 
 - 📲 **Mobile** developer
 - 💎 **Blockchains** Developer
-- 🎥 I create **[Web3](https://instagram.com/pauortegarcia)** content
+- 🎥 I create **[Web3](https://instagram.com/pauogdev)** content
 - ✏️ Modern languages **[Blog](https://bytedev.blog)**
 - 🧑‍🏫 **[Freelance](https://pauog.dev)** Developer
 - 📹 Soon content creator in **[twitch.tv](https://twitch.tv/pauogdev)**
