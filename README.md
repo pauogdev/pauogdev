@@ -25,20 +25,23 @@
 
 ## 📋 Hard Skills
 <ul style="list-style-type: none;">
-  <li col="3">
+  <li col="4">
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Java&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=NodeJS&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Kotlin&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=GoLand&labelColor=%230792CA&color=%239474FA" />
   </li>
-  <li col="3" >
+  <li col="4" >
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=JavaScript&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=PHP&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=SQL&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90-text?label=NoSQL&labelColor=%230792CA&color=%239474FA" />
   </li>
-  <li col="3">
+  <li col="4">
     <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=CSS3&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%20%20%E2%AD%90%E2%AD%90-text?label=React&labelColor=%230792CA&color=%239474FA" />
     <img src="https://img.shields.io/badge/%E2%AD%90%20%20%E2%AD%90%E2%AD%90-text?label=Astro&labelColor=%230792CA&color=%239474FA" />
+    <img src="https://img.shields.io/badge/%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-text?label=Spring&labelColor=%230792CA&color=%239474FA" />
   </li>
 </ul>
 
@@ -46,6 +49,10 @@
 <br>
 
 ## 🚀 Projects coming soon
+
+- 🎾 Info-Padel
+- 🍜 GeenkCollectorFigure
+- 💱 Book Lending
                                                                             
 </div>
 <br>
