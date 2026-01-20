@@ -20,7 +20,7 @@
 ✏️ **Creador de contenido técnico** sobre desarrollo moderno, migraciones de sistemas y buenas prácticas.<br>
 📝 **Nuevo blog técnico** en [pauog.dev](https://pauog.dev) sobre **Java, Go, Kotlin y arquitectura de software**.<br>
 💼 **Freelance Developer** con experiencia en migraciones de Java, desarrollo de APIs y apps móviles para **empresas, emprendedores y particulares**.<br>
-🎥 **Próximamente nuevo canal de [YouTube](https://youtube.com/pauogstackdev)** (tutoriales, desarrollo en vivo y análisis técnico).
+🎥 **Próximamente nuevo canal de [YouTube](https://youtube.com/@pauogstackdev)** (tutoriales, desarrollo en vivo y análisis técnico).
 <br>
 
 ### **🛠️ Tecnologías y herramientas**
@@ -70,7 +70,7 @@
 📧 **Email**: [pau@pauog.dev](mailto:pau@pauog.dev).<br>
 💼 **LinkedIn**: [linkedin.com/in/pauortegarcia](https://linkedin.com/in/pauortegarcia).<br>
 🐦 **Twitter**: [@pauogdev](https://twitter.com/pauogdev).<br>
-📺 **YouTube**: [youtube.com/pauogdev](https://youtube.com/pauogstackdev).<br>
+📺 **YouTube**: [youtube.com/pauogdev](https://youtube.com/@pauogstackdev).<br>
 
 ---
 
@@ -84,7 +84,7 @@
 - 🚀 **Lanzar [LuminaKT.com](https://luminakt.com)**: Plataforma para mostrar y vender apps Android con características premium.
 - 🔄 **Restructurar [pauog.dev](https://pauog.dev)**: Enfocada en servicios de desarrollo, contenido técnico y proyectos freelance.
 - 💼 **Desarrollar proyectos para empresas, emprendedores y particulares**: Ofreciendo soluciones en Java, Go y Kotlin.
-- 🎥 **Crear contenido en [YouTube](https://youtube.com/pauogstackdev)**: Tutoriales, desarrollo en vivo y análisis técnico para la comunidad de desarrolladores.
+- 🎥 **Crear contenido en [YouTube](https://youtube.com/@pauogstackdev)**: Tutoriales, desarrollo en vivo y análisis técnico para la comunidad de desarrolladores.
 - 🤝 **Colaborar en proyectos innovadores**: Trabajando con otros desarrolladores y empresas en soluciones técnicas.
 
 ---
