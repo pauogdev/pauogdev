@@ -4,43 +4,98 @@
 **pauortegarcia/pauortegarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-<h1 align="center">Welcome, i'm <a target="_blank" href="https://pauog.dev">Pau Ortega</a> 🧑‍💻</h1>
+<h1 align="center"><a target="_blank" href="https://pauog.dev">Pau OG</a> | Senior Backend Developer🧑‍💻</h1>
 </div>
 <img src="https://i.imgur.com/Zd4Z9Lx.jpeg" />
 
-
 [![GitHub followers](https://img.shields.io/github/followers/pauogdev?style=social)](https://github.com/pauortegarcia)
 
+---
 
-## 🤵About Me
+🎯 **Java • Go • Kotlin**  
+Specializing in enterprise backend systems, migrations, and scalable architectures.
 
-🔥 **Analista Programador Senior** con **8 años de experiencia** especializado en **Java, Go y Kotlin**.<br>
-📱 **Desarrollador Mobile** enfocado en **Android con Kotlin, Jetpack Compose y Firebase**.<br>
-💻 **Desarrollador Backend** con experiencia en **APIs en Go, Java/Spring Boot y arquitecturas modernas**.<br>
-✏️ **Creador de contenido técnico** sobre desarrollo moderno, migraciones de sistemas y buenas prácticas.<br>
-📝 **Nuevo blog técnico** en [pauog.dev](https://pauog.dev) sobre **Java, Go, Kotlin y arquitectura de software**.<br>
-💼 **Freelance Developer** con experiencia en migraciones de Java, desarrollo de APIs y apps móviles para **empresas, emprendedores y particulares**.<br>
-🎥 **Próximamente nuevo canal de [YouTube](https://youtube.com/@pauogstackdev)** (tutoriales, desarrollo en vivo y análisis técnico).
-<br>
+---
+
+## 👋 About Me
+8+ years building production systems for startups and enterprises.
+
+**Expertise:**
+- 🔧 Java Modernization (Legacy 8 → Modern versions)
+- 🚀 High-performance APIs (Java Spring + Go)
+- 📱 Kotlin Multiplatform Applications
+- 🏗️ System Architecture & Design Patterns
+- 👨‍💼 Tech Leadership & Team Mentoring
+
+---
+
+**Currently:**
+- Senior Backend Consultant (Upwork)
+- Mentor (Patreon: https://patreon.com/pauog)
+- Content Creator (YouTube: @pauogstackdev)
+
+---
+
+## 📚 Featured Repositories
+
+### Java Migration Guide
+Guide with examples for upgrading Java legacy systems (8 → 21).  
+**Topics:** Java, migration, Spring Boot, best practices  
+→ [java-migration-guide](https://github.com/pauogdev/java-migration-guide)
+
+### Go API Skeleton
+Production-ready Go API boilerplate with best practices.  
+**Topics:** Go, Gin, architecture, CI/CD  
+→ [go-api-skeleton](https://github.com/pauogdev/go-api-skeleton)
+
+### Kotlin Patterns
+Design patterns implemented in Kotlin with real-world examples.  
+**Topics:** Kotlin, design patterns, architecture  
+→ [kotlin-patterns](https://github.com/pauogdev/kotlin-patterns)
+
+---
+
+## 🎓 What I Do
+
+### Consulting
+**Java Migrations, API Development, Architecture Design**  
+→ Available on [Upwork](https://upwork.com/freelancers/pauogdev)
+
+### Mentorship
+**Code reviews, career guidance, architecture reviews**  
+→ Join on [Patreon](https://patreon.com/pauog)
+
+### Content
+**Backend architecture, career development, deep-dives**  
+→ Subscribe on [YouTube](https://youtube.com/@pauogstackdev)
+
+---
 
 ### **🛠️ Tecnologías y herramientas**
-#### **Backend & APIs**
+
+#### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### **Frontend & Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### **Mobile**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+#### **Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### **DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%23215797.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6B35?style=for-the-badge&logo=cicd&logoColor=white)
 
 #### **IDEs de JetBrains**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -48,11 +103,11 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 
-#### **DevOps & Herramientas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### **Concepts**
+![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge&logo=microservices&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4F46E5?style=for-the-badge&logo=design-patterns&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge&logo=system-design&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-7C3AED?style=for-the-badge&logo=ddd&logoColor=white)
 
 ---
 
@@ -69,7 +124,9 @@
 🌍 **Web**: [pauog.dev](https://pauog.dev).<br>
 📧 **Email**: [pau@pauog.dev](mailto:pau@pauog.dev).<br>
 💼 **LinkedIn**: [linkedin.com/in/pauortegarcia](https://linkedin.com/in/pauortegarcia).<br>
-🐦 **Twitter**: [@pauogdev](https://twitter.com/pauogdev).<br>
+⚡ **Upwork**: [Upwork](upwork.com/freelancers/pauogdev)<br>
+💜 **Patreon:** [linkedin.com/in/pauortegarcia](https://patreon.com/pauog).<br>
+𝕏 **Twitter**: [@pauogdev](https://x.com/pauogdev).<br>
 📺 **YouTube**: [youtube.com/pauogdev](https://youtube.com/@pauogstackdev).<br>
 
 ---
@@ -78,14 +135,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pauogdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauogdev&layout=compact&theme=radical)
 
----
 
-### **🎯 Mis metas para 2026**
-- 🚀 **Lanzar [LuminaKT.com](https://luminakt.com)**: Plataforma para mostrar y vender apps Android con características premium.
-- 🔄 **Restructurar [pauog.dev](https://pauog.dev)**: Enfocada en servicios de desarrollo, contenido técnico y proyectos freelance.
-- 💼 **Desarrollar proyectos para empresas, emprendedores y particulares**: Ofreciendo soluciones en Java, Go y Kotlin.
-- 🎥 **Crear contenido en [YouTube](https://youtube.com/@pauogstackdev)**: Tutoriales, desarrollo en vivo y análisis técnico para la comunidad de desarrolladores.
-- 🤝 **Colaborar en proyectos innovadores**: Trabajando con otros desarrolladores y empresas en soluciones técnicas.
-
----
-**¡Gracias por visitar mi perfil!** 😊 Si quieres colaborar, contratar mis servicios freelance o simplemente charlar sobre desarrollo, no dudes en contactarme.
