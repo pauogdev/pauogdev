@@ -6,7 +6,7 @@
 <div align="center">
 <h1 align="center"><a target="_blank" href="https://pauog.dev">Pau OG</a> | Senior Backend Developer🧑‍💻</h1>
 </div>
-<img src="https://imgur.com/TIvsgoL" />
+<img src="https://i.imgur.com/TIvsgoL.png" />
 
 [![GitHub followers](https://img.shields.io/github/followers/pauogdev?style=social)](https://github.com/pauortegarcia)
 
