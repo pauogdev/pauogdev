@@ -131,8 +131,4 @@ Design patterns implemented in Kotlin with real-world examples.
 
 ---
 
-### **📊 Estadísticas de GitHub**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pauogdev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauogdev&layout=compact&theme=radical)
-
 
