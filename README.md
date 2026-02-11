@@ -124,7 +124,7 @@ Design patterns implemented in Kotlin with real-world examples.
 🌍 **Web**: [pauog.dev](https://pauog.dev).<br>
 📧 **Email**: [pau@pauog.dev](mailto:pau@pauog.dev).<br>
 💼 **LinkedIn**: [linkedin.com/in/pauortegarcia](https://linkedin.com/in/pauortegarcia).<br>
-⚡ **Upwork**: [Upwork](https://www.upwork.com/freelancers/~018255e95b5d22d01d))<br>
+⚡ **Upwork**: [Upwork.com/pauogdev](https://www.upwork.com/freelancers/~018255e95b5d22d01d).<br>
 💜 **Patreon:** [patreon.com/cw/pauogdev](https://patreon.com/cw/pauogdev).<br>
 𝕏 **Twitter**: [@pauogdev](https://x.com/pauogdev).<br>
 📺 **YouTube**: [youtube.com/pauogdev](https://youtube.com/@pauogstackdev).<br>
